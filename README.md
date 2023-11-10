@@ -25,5 +25,4 @@ The final recursive call increments j to continue comparing as normal.
 Running Time of Algorithms runtime and space complexity analysis:
 
 The runtime is O(n^2) where n = the length of arr, since there are two loops which in the worst case scenario run n times.
-The space complexity is O(n), since it maintains a list of size n and a integer throughout the algorithm and O(n) is the dominant term.
-                                         
+The space complexity is O(n), since it maintains a list of size n and a integer throughout the algorithm and O(n) is the dominant term.                                      
